@@ -1,0 +1,2 @@
+This is my file in alice2.txtThis is my new content in append mode
+ This is my new content in append mode
