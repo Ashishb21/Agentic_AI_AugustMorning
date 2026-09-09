@@ -4,3 +4,4 @@ matplotlib
 openai
 anthropic
 python-dotenv
+ollama
